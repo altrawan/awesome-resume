@@ -1,4 +1,4 @@
-# Resume version 1.5
+# Resume 1.5
 HTML &amp; CSS Resume Template
 Features :
   1. Skill Bar Animation
