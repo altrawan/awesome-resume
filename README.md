@@ -1,4 +1,4 @@
-# Resume 1.5
+# Awesome Resume
 HTML &amp; CSS Resume Template
 Features :
   1. Skill Bar Animation
